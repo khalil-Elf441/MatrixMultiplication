@@ -143,7 +143,7 @@ class Matrice
             }
     }
 
-    //calcul produit de tout les blacks
+    //calcul produit de tout les blocks
     void CalculProduitParBlock(Matrice *m2)
     {
 
